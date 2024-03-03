@@ -1,0 +1,10 @@
+Step to run the app:
+
+1. npm install
+2. npx prisma db push --force-reset
+3. npx prisma db seed
+4. npm run prod
+
+then after that open the system at "http://localhost:3000/"
+
+hello world
